@@ -1,16 +1,9 @@
-<p align="center">
-  <h1 align="center" style="font-size: 48px;">⚠️ Development of Dashchat v2 will soon start ⚠️</h1>
-  <p align="center">First version of this v2 is expected in January, the v1 can still be used but do not expect additional development in it. You can still open issues for the v1 to indicate things we need to implement/fix in the v2</p>
-</p> 
-<hr>
-<p align="center">
-  <img src="https://media.giphy.com/media/ghBkB5BHQgdhamZ2WA/giphy.gif" />
-  <h1 align="center" style="font-size: 48px;">💬 Dash Chat</h1>
-  <h5 align="center">The most complete Chat UI for flutter</h5>
-  <p align="center">Inspired by <a href="https://github.com/FaridSafi/react-native-gifted-chat">react-native-gifted-chat.</a>
-      Highly customizable and helps developing chat UI faster.
-  </p>
-</p>
+## Updates in this fork
+
+This fork has the following changes:
+- Allow more than 3 quick replies to a message
+
+The fork has been created because upstream did not integrate a previous pull request. It is anticipated that this package is obsolete when dash_chat v2 is released.
 
 ## Usage 💻
 
