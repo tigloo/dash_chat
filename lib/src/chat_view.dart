@@ -539,10 +539,10 @@ class DashChatState extends State<DashChat> {
                                         0,
                                         widget.messages.last.quickReplies.values
                                                     .length <=
-                                                3
+                                                30
                                             ? widget.messages.last.quickReplies
                                                 .values.length
-                                            : 3)
+                                            : 30)
                                     .map(_mapReply)
                                     .toList(),
                               ],
